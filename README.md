@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kamal
-- 👀 I’m interested in Python, Data science, ML, Deep Learning, AWS SageMaker, ..
+- 👀 I’m interested in Python, AWS, Data science, ML, Deep Learning, AWS SageMaker, Lambda..
 - 🌱 I’m currently working on Data science solutions - Regression and Time series
 - 💞️ I’m looking to collaborate on the above interests
 - 📫 How to reach me ... www.linkedin.com/in/kamal-balakrishnan-data-geek
